@@ -4,6 +4,7 @@ kpt_shape:
 names:
   0: standing person
   1: fall person
-path: ./src/dataset
-train: train
-test: test
+path: C:\Users\User\Desktop\Python_VS\training_models_for_service\src\dataset
+train: C:\Users\User\Desktop\Python_VS\training_models_for_service\src\dataset\train
+val: C:\Users\User\Desktop\Python_VS\training_models_for_service\src\dataset\test
+test: C:\Users\User\Desktop\Python_VS\training_models_for_service\src\dataset\test
