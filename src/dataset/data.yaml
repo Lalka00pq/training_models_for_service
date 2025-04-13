@@ -4,5 +4,6 @@ kpt_shape:
 names:
   0: standing person
   1: fall person
-path: .
-train: train.txt
+path: ./src/dataset
+train: train
+test: test
